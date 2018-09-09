@@ -18,7 +18,10 @@ biking | :sparkles:
 
 ## R Markdown for Gapminder Exploration
 
-
+1.
+2.
+3.
+4.
 
 ## How I make README.md and hw01_gapminder.Rmd files
 
