@@ -26,4 +26,11 @@ For the README.md file, I directly edited on Github, making some changes and com
 
 For the hw01_gapminder.Rmd file, I directly worked in Rstudio and then pushed file to the github by using git functionality in the Rstudio.
 
+## Final thanks
+
+Thanks for visiting my hw01 repository! Here is one of my favorite quote which has stuck with me many years.
+
+> If you would hit the mark, you must aim a little above it. Every arrow that flies feels the attraction of earth.
+>
+> -Henry Wadsworth Longfellow
 
