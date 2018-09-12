@@ -18,17 +18,15 @@ biking | :sparkles:
 
 ## R Markdown for Gapminder Exploration
 
-1.
-2.
-3.
-4.
-
+* Gapminder dataset is UN statistics which records the life expectancy, population and gdp per capita in most countries between year 1952 to year 2007. 
+* [here](https://github.com/STAT545-UBC-students/hw01-QinxinLin/blob/master/hw1_gapminder.md) is my gapminder dataset exploration.
+* [here](https://github.com/STAT545-UBC-students/hw01-QinxinLin/blob/master/hw1_gapminder.Rmd) is my R Markdown source code. 
+ 
 ## How I make README.md and hw01_gapminder.Rmd files
 
 For the README.md file, I directly edited on Github, making some changes and commit them to the repo. The process was smooth and some markdown cheat-sheets like [this](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) are very useful. 
 
-For the hw01_gapminder.Rmd file, I directly worked in Rstudio and then pushed file to the github by using git functionality in the Rstudio. 
-Using R Markdown: 
+For the hw01_gapminder.Rmd file, I directly worked in Rstudio and then pushed file to the github by using git functionality in the Rstudio. Using R Markdown is a simple process and [this website](https://rmarkdown.rstudio.com/lesson-1.html) is awesome.
 
 ## Final thanks
 
@@ -36,5 +34,5 @@ Thanks for visiting my hw01 repository! Here is one of my favorite quote which h
 
 > If you would hit the mark, you must aim a little above it. Every arrow that flies feels the attraction of earth.
 >
-> -Henry Wadsworth Longfellow
+> - Henry Wadsworth Longfellow
 
