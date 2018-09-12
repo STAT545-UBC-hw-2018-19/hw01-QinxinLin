@@ -28,7 +28,7 @@ biking | :sparkles:
 For the README.md file, I directly edited on Github, making some changes and commit them to the repo. The process was smooth and some markdown cheat-sheets like [this](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) are very useful. 
 
 For the hw01_gapminder.Rmd file, I directly worked in Rstudio and then pushed file to the github by using git functionality in the Rstudio. 
-Using R Markdown: [this](https://github.com/STAT545-UBC-students/hw01-QinxinLin/blob/master/hw01_gapminder.md)
+Using R Markdown: 
 
 ## Final thanks
 
