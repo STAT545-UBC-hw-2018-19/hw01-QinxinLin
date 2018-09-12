@@ -1,5 +1,6 @@
 ---
-title: "Hw1"
+title: "Hw1-gapminder"
+date: "September 12, 2017"
 output: github_document
 ---
 
