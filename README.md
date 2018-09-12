@@ -18,11 +18,10 @@ biking | :sparkles:
 
 ## R Markdown for Gapminder Exploration
 
-1.
-2.
-3.
-4.
-
+* Gapminder dataset is UN statistics which records the life expectancy, population and gdp per capita in most countries between year 1952 to year 2007. 
+* [here]() is my gapminder dataset exploration.
+* [here]() is my R Markdown source code. 
+ 
 ## How I make README.md and hw01_gapminder.Rmd files
 
 For the README.md file, I directly edited on Github, making some changes and commit them to the repo. The process was smooth and some markdown cheat-sheets like [this](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) are very useful. 
