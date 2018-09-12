@@ -20,7 +20,7 @@ biking | :sparkles:
 
 * Gapminder dataset is UN statistics which records the life expectancy, population and gdp per capita in most countries between year 1952 to year 2007. 
 * [here](https://github.com/STAT545-UBC-students/hw01-QinxinLin/blob/master/hw1_gapminder.md) is my gapminder dataset exploration.
-* [here]() is my R Markdown source code. 
+* [here](https://github.com/STAT545-UBC-students/hw01-QinxinLin/blob/master/hw1_gapminder.Rmd) is my R Markdown source code. 
  
 ## How I make README.md and hw01_gapminder.Rmd files
 
